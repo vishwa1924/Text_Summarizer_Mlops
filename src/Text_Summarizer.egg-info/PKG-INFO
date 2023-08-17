@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: Text-Summarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/Vishwa1924/Text_Summarizer_Mlops
+Author: Vishwa1924
+Author-email: saivishwa.gaddam@gmail.com
+Project-URL: Bug Tracker, https://github.com/Vishwa1924/Text_Summarizer_Mlops/issues
+
+# Chicken_Disease_Classification_Project 
+
+
+Update config.yaml
+Update secrets.yaml [Optional]
+Update params.yaml
+Update the entity
+Update the configuration manager in src config
+Update the components
+Update the pipeline
+Update the main.py
+Update the dvc.yaml

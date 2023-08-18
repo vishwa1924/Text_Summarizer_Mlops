@@ -1,4 +1,3 @@
-# Chicken_Disease_Classification_Project 
 
 
 Update config.yaml
